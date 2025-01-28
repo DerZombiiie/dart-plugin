@@ -2,11 +2,11 @@
   "Name": "dart",
   "Description": "Dart language support (dart format)",
   "Tags": ["dart"],
-  "Website": "https://github.com/DerZombiiie/dart-plugin",
+  "Website": "https://github.com/rilendorf/dart-plugin",
   "Versions": [
     {
       "Version": "1.0.0",
-      "Url": "https://github.com/DerZombiiie/dart-plugin/v1.0.0.zip",
+      "Url": "https://github.com/rilendorf/dart-plugin/v1.0.0.zip",
       "Require": {
         "micro": ">=2.0.0"
       }
